@@ -1,5 +1,5 @@
 # LethalCompany 日本語化MOD / Lethal Company Japanese Localization MOD
-![image](https://github.com/timber-cr/LethalCompany_JP_Localization/blob/de65b5dc8a1e7c53551dbe74e46ef9ec0aebe9ad/assets/image.png)
+![image](https://github.com/timber-cr/LethalCompany_JP_Localization/blob/de65b5dc8a1e7c53551dbe74e46ef9ec0aebe9ad/assets/image.png?raw=true)
 ### Lethal Companyを日本語化するMODファイルとなります。
 ### ゲーム内のテキストおよびポスターが日本語化されます。
 ### 関連MODの制約上、一部日本語化できていない場所もございます。
