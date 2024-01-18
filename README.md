@@ -37,6 +37,7 @@ In-cabin broadcasts, etc. will also be subtitled in Japanese.
 Please install the following two mods.
 The config files are included with this mod, so you only need to install them to get the Japanese language version.
 <br>
+<br>
  Subtitles<br>
   https://thunderstore.io/c/lethal-company/p/JustJelly/Subtitles/<br>
 
