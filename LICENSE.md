@@ -1,4 +1,4 @@
-#Note
+# Note
 This project contains both open source and non-open source content!
 Although we discuss licensing and open source here, the final decision rests with the original author.
 If the file contains license information, follow the license information in the file directly.
