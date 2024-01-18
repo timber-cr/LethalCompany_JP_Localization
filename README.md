@@ -15,6 +15,7 @@ Please understand that some translations have been made to avoid confusion in me
 # バージョン / Version
 2024/1/9リリースのVersion 47に対応しています。
 <br>
+<br>
 # 前提MOD / Required Mods
  BeplnExPack<br>
   https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/<br>
@@ -24,6 +25,7 @@ Please understand that some translations have been made to avoid confusion in me
   https://thunderstore.io/c/lethal-company/p/Aavild/NewTerminal/<br>
  FontPatcher<br>
   https://thunderstore.io/c/lethal-company/p/LeKAKiD/FontPatcher/<br>
+<br>
 <br>
 # 任意MOD / Optional Mods
 ### JanGuillermo氏の「SubtitlesAPI」に日本語を追加させていただきました。
@@ -44,6 +46,7 @@ The config files are included with this mod, so you only need to install them to
  SubtitlesAPI（字幕表記に日本語を提供 / Provides Japanese for subtitling）<br>
   https://thunderstore.io/c/lethal-company/p/JustJelly/SubtitlesAPI/<br>
 <br>
+<br>
 # クレジット / Credits
 ### テクスチャの日本語差し替えにあたり、Solo氏の承諾を得て「Solos Poster Changer」を参考に処理を実装させていただきました。ご協力に感謝いたします！
 In replacing the Japanese textures, we have implemented the process by referring to "Solos Poster Changer" with Solo's permission. We thank them for their cooperation!<br>
@@ -53,15 +56,18 @@ https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Poster_Changer/
 "XUnity.AutoTranslator" by bbepis was used for the translation, following the redistribution instructions.<br>
 https://github.com/bbepis/XUnity.AutoTranslator?tab=readme-ov-file#regarding-redistribution
 <br>
+<br>
 # 配信および動画内での使用について / For use in streaming and video
 ### ご自由にお使いください。クレジット表記等も必要ありません。
 Please feel free to use it. No credit notation is required.
+<br>
 <br>
 # 再配布および改変について / Redistribution and Modification
 ### 詳しくは同梱しているLICENSE.mdをご確認ください。
 ### 「BepInEx\config\ja」フォルダ内にあります日本語ファイルテキストについては改変、再配布自由といたします。
 Please see the included LICENSE.md for details.
 The Japanese file text in the "BepInEx\config\en" folder may be freely modified and redistributed.
+<br>
 <br>
 # その他
 ### 動作で気になる点や誤訳の報告がございましたらこちらからご報告お願いいたします。
