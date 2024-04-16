@@ -13,7 +13,7 @@ Please understand that some translations have been made to avoid confusion in me
 <br>
 <br>
 # バージョン / Version
-2024/1/9リリースのVersion 47に対応しています。
+2024/4/14リリースのVersion 50に対応しています。
 <br>
 <br>
 # 前提MOD / Required Mods
