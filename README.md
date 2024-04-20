@@ -19,8 +19,8 @@ Please understand that some translations have been made to avoid confusion in me
 # 前提MOD / Required Mods
  BeplnExPack<br>
   https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/<br>
- XUnity.AutoTranslator(同梱済み / included in a package)<br>
-  https://github.com/bbepis/XUnity.AutoTranslator/releases<br>
+ XUnity AutoTranslator<br>
+  https://thunderstore.io/c/lethal-company/p/Hayrizan/XUnity_AutoTranslator/<br>
  NewTerminal<br>
   https://thunderstore.io/c/lethal-company/p/Aavild/NewTerminal/<br>
  FontPatcher<br>
@@ -51,10 +51,6 @@ The config files are included with this mod, so you only need to install them to
 ### テクスチャの日本語差し替えにあたり、Solo氏の承諾を得て「Solos Poster Changer」を参考に処理を実装させていただきました。ご協力に感謝いたします！
 In replacing the Japanese textures, we have implemented the process by referring to "Solos Poster Changer" with Solo's permission. We thank them for their cooperation!<br>
 https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Poster_Changer/
-<br>
-### 翻訳にあたり、bbepis氏の「XUnity.AutoTranslator」を再配布手順に従った上で使用しております。
-"XUnity.AutoTranslator" by bbepis was used for the translation, following the redistribution instructions.<br>
-https://github.com/bbepis/XUnity.AutoTranslator?tab=readme-ov-file#regarding-redistribution
 <br>
 <br>
 # 配信および動画内での使用について / For use in streaming and video
