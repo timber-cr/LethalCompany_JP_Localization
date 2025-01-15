@@ -35,10 +35,10 @@ Please understand that some translations have been made to avoid confusion in me
 ### 船内放送なども日本語字幕化されます。
 ### 導入する場合は下記2つのMODを導入してください。
 ### configについては本MODにて同梱しておりますので導入だけで日本語化されます。
-We have added Japanese language to "SubtitlesAPI" by JanGuillermo.
-This mod provides subtitles for Deaf and hard of hearing people.
-In-cabin broadcasts, etc. will also be subtitled in Japanese.
-Please install the following two mods.
+We have added Japanese language to "SubtitlesAPI" by JanGuillermo.<br>
+This mod provides subtitles for Deaf and hard of hearing people.<br>
+In-cabin broadcasts, etc. will also be subtitled in Japanese.<br>
+Please install the following two mods.<br>
 The config files are included with this mod, so you only need to install them to get the Japanese language version.
 <br>
 <br>
