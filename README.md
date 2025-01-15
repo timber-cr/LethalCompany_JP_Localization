@@ -13,7 +13,7 @@ Please understand that some translations have been made to avoid confusion in me
 <br>
 <br>
 # バージョン / Version
-### 1.0.8
+### 1.0.9
 2024/12/14リリースのVersion 69に対応しました。<br>
 <br>
 前提MOD「NewTerminal」が不要となりました。<br>
