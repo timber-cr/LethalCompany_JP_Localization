@@ -5,18 +5,18 @@
 ### 関連MODの制約上、一部日本語化できていない場所もございます。
 ### また、翻訳は基本的にDeepLを使用しております。誤訳等ある場合がございます。
 ### 意味がおかしくならないように一部意訳なども行われていますので、ご了承ください。
-This is a mod file to convert Lethal Company into Japanese.
-Texts and posters in the game will be translated into Japanese.
-Due to limitations of related mods, some parts of the game may not be translated into Japanese.
-The translation is basically done using DeepL. Please note that there may be mistranslations.
+This is a mod file to convert Lethal Company into Japanese.<br>
+Texts and posters in the game will be translated into Japanese.<br>
+Due to limitations of related mods, some parts of the game may not be translated into Japanese.<br>
+The translation is basically done using DeepL. Please note that there may be mistranslations.<br>
 Please understand that some translations have been made to avoid confusion in meaning.
 <br>
 <br>
 # バージョン / Version
-1.0.7<br>
-2024/12/14リリースのVersion 69に対応しました。
+###1.0.8
+2024/12/14リリースのVersion 69に対応しました。<br>
 <br>
-前提MOD「NewTerminal」が不要となりました。
+前提MOD「NewTerminal」が不要となりました。<br>
 これにより本日本語化MODを導入していない方とも同時に遊べるようになりました。
 <br>
 <br>
@@ -61,6 +61,14 @@ https://thunderstore.io/c/lethal-company/p/Aavild/NewTerminal/
 ### 本MODを更新できていなかった期間にパッチを充てていただいておりましたImo_Kazu氏に感謝いたします！
 We would like to thank Imo_Kazu for the patch during the period when we were not able to update this mod!<br>
 https://thunderstore.io/c/lethal-company/p/Imo_Kazu/Lethal_Company_Japanese_Localization_Update_Patch/
+### 翻訳にあたり「よく飛ばない鳥」のマルセ様の「チェックアンドU-Foフォント」を使用しております。
+https://yokutobanaitori.web.fc2.com/
+### 翻訳にあたり「フロップデザイン」様の「源界明朝」を使用しております。
+https://flopdesign.booth.pm/items/1028548
+### 翻訳にあたり「irori」様の「ワープロ明朝」を使用しております。
+https://irori.github.io/wapuro-mincho/
+### 翻訳にあたり「mihirame」様の「みひらめフォント」を使用しております。
+https://mihifont.netlify.app/
 <br>
 <br>
 # 配信および動画内での使用について / For use in streaming and video
