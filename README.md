@@ -13,7 +13,6 @@ Please understand that some translations have been made to avoid confusion in me
 <br>
 <br>
 # バージョン / Version
-<br>
 1.0.6<br>
 2024/12/14リリースのVersion 69に対応しました。
 <br>
