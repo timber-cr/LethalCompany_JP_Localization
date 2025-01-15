@@ -25,8 +25,6 @@ Please understand that some translations have been made to avoid confusion in me
   https://thunderstore.io/c/lethal-company/p/BepInEx/BepInExPack/<br>
  XUnity AutoTranslator<br>
   https://thunderstore.io/c/lethal-company/p/Hayrizan/XUnity_AutoTranslator/<br>
- NewTerminal<br>
-  https://thunderstore.io/c/lethal-company/p/Aavild/NewTerminal/<br>
  FontPatcher<br>
   https://thunderstore.io/c/lethal-company/p/LeKAKiD/FontPatcher/<br>
 <br>
