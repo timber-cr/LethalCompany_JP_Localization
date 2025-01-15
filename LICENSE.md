@@ -6,7 +6,7 @@ If the file contains license information, follow the license information in the 
 ```
 MIT License
 
-Copyright (c) 2024 timber-cr
+Copyright (c) 2024-2025 timber-cr
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -1,46 +1,45 @@
-﻿21 Offense=21 Offense
-220 Assurance=220 Assurance
-31 March=31 March
-41 Experimentation=41 Experimentation
-56 Vow=56 Vow
-61 March=61 March
-71 Gordion=71 Gordion
-85 Rend=85 Rend
-20 Adamance=20 Adamance
-68 Artifice=68 Artifice
-5 Embrion=5 Embrion
-A competitive ecosystem supports aggressive lifeforms.=攻撃的な生態系
-Abandoned=放棄
-A landscape of deep valleys and mountains.=深い谷と山が広がる
-Arid. Thick haze, worsened by industrial artifacts.=乾燥 視界不良
-Dangerous entities have been rumored to take residence in the vast network of tunnels.=非常に危険と噂される
-Desolate, made of amethyst.=荒涼 アメジスト質
-Diverse=多様
-Dominated by a few species.=少数の種によって支配
+﻿# weather
 Eclipsed=日食
-Ecosystem supports territorial behaviour.=縄張り的生態系
-Embrion is devoid of biological life.\n=生命反応なし\n
-Expansive. Constant rain.=広大 雨が降り続いている
 Flooded=洪水
 Foggy=濃霧
+Stormy=暴風雨
+Rainy=雨
+Unknown=不明
+
+# population
+Abandoned=放棄
+Home base=拠点
+
+# environment
+A landscape of deep valleys and mountains.=深い谷と山が広がる
+Arid. Thick haze, worsened by industrial artifacts.=乾燥 視界不良
+Desolate, made of amethyst.=荒涼 アメジスト質
+Expansive. Constant rain.=広大 雨が降り続いている
 Frozen, rocky. Its planet orbits a white dwarf star.=白色矮星 凍った岩石質
 Frozen, rocky. This moon was mined for resources. It's easy to get lost here.=凍った岩石質 迷いやすい地形
-HAZARD LEVEL:=脅威レベル:
-Home base=拠点
-Home to a lively, diverse ecosystem of smaller-sized omnivores.\n=小型雑食動物が生息 活発で多様\n
 Humid. Rough terrain. Teeming with plant-life.=多湿で起伏多し 緑が多い
 Jagged and weathered terrain. =風化 
 Jagged and weathered terrain.=風化
-Main entrance=正面入口
 No land masses. Continual storms.=陸地なし 絶え間ない嵐
-Oxygen critically low!=酸素が危険レベルです!
-Rainy=雨
+Waning forests. Abandoned facilities littered across the landscape.=薄れつつある森林 廃墟施設群
+
+# fauna
+A competitive ecosystem supports aggressive lifeforms.=攻撃的な生態系
+Dangerous entities have been rumored to take residence in the vast network of tunnels.=非常に危険と噂される
+Diverse=多様
+Dominated by a few species.=少数の種によって支配
+Ecosystem supports territorial behaviour.=縄張り的生態系
+Embrion is devoid of biological life.\n=生命反応なし\n
+Home to a lively, diverse ecosystem of smaller-sized omnivores.\n=小型雑食動物が生息 活発で多様\n
 Rumored active machinery left behind.=まだ動く機械があると噂される
-Safe=安全
-Stormy=暴風雨
-Unlikely for complex life to exist\n=複雑系生命体の存在率低し\n
-Unknown=不明
 Unknown\nWhere the Company resides.\n=不明\n会社の所在地\n
 Unlikely for complex life to exist=複雑系生命体の存在率低し
+Unlikely for complex life to exist\n=複雑系生命体の存在率低し\n
 Where the Company resides.=会社の所在地
-Waning forests. Abandoned facilities littered across the landscape.=薄れつつある森林 廃墟施設群
+
+# level
+HAZARD LEVEL:=脅威レベル:
+Safe=安全
+
+Main entrance=正面入口
+Oxygen critically low!=酸素が危険レベルです!

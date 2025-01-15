@@ -1,11 +1,10 @@
 {
     "name": "Lethal_Company_Japanese_Localization",
-    "version_number": "1.0.5",
+    "version_number": "1.0.6",
     "website_url": "https://github.com/timber-cr/LethalCompany_JP_Localization",
-    "description": "Lethal Company Japanese Localization",
+    "description": "Lethal Company 日本語化MOD (Japanese Localization)",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
-        "Aavild-NewTerminal-1.4.0",
         "LeKAKiD-FontPatcher-1.2.4",
         "Hayrizan-XUnity_AutoTranslator-5.3.0"
     ]

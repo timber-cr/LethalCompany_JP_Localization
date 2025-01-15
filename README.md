@@ -13,7 +13,12 @@ Please understand that some translations have been made to avoid confusion in me
 <br>
 <br>
 # バージョン / Version
-2024/4/14リリースのVersion 50に対応しています。
+<br>
+1.0.6
+2024/12/14リリースのVersion 69に対応しました。
+<br>
+前提MOD「NewTerminal」が不要となりました。
+これにより本日本語化MODを導入していない方とも同時に遊べるようになりました。
 <br>
 <br>
 # 前提MOD / Required Mods
@@ -51,6 +56,12 @@ The config files are included with this mod, so you only need to install them to
 ### テクスチャの日本語差し替えにあたり、Solo氏の承諾を得て「Solos Poster Changer」を参考に処理を実装させていただきました。ご協力に感謝いたします！
 In replacing the Japanese textures, we have implemented the process by referring to "Solos Poster Changer" with Solo's permission. We thank them for their cooperation!<br>
 https://thunderstore.io/c/lethal-company/p/CapyCat/Solos_Poster_Changer/
+### バージョン1.0.5までAavild氏の「NewTerminal」を使用してターミナルの日本語化を実施しておりました。ご協力いただきありがとうございました！
+We have been using Aavild's "NewTerminal" to localize the terminal into Japanese until version 1.0.5. We thank them for their cooperation!<br>
+https://thunderstore.io/c/lethal-company/p/Aavild/NewTerminal/
+### 本MODを更新できていなかった期間にパッチを充てていただいておりましたImo_Kazu氏に感謝いたします！
+We would like to thank Imo_Kazu for the patch during the period when we were not able to update this mod!<br>
+https://thunderstore.io/c/lethal-company/p/Imo_Kazu/Lethal_Company_Japanese_Localization_Update_Patch/
 <br>
 <br>
 # 配信および動画内での使用について / For use in streaming and video
