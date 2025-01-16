@@ -1,8 +1,8 @@
-# 1.1.0
+# 1.1.1
 - Version 69に対応
 - 一部翻訳を修正
 - Cruiserのマニュアルを日本語化
-- Aavild-NewTerminalを使用したターミナル翻訳を廃止
+- Aavild-NewTerminalを使用したターミナル翻訳を廃止（手動での無効化、アンインストールをお願いします）
 - ターミナル翻訳を独自プラグインでの処理へ変更
 - プラグイン処理変更にあたりプラグイン名の変更 (TextureReplacerからLC_JapaneseLocalizationへ)
 

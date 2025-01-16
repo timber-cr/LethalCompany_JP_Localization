@@ -13,11 +13,14 @@ Please understand that some translations have been made to avoid confusion in me
 <br>
 <br>
 # バージョン / Version
-### 1.1.0
+### 1.1.1
 2024/12/14リリースのVersion 69に対応しました。<br>
 <br>
 前提MOD「NewTerminal」が不要となりました。<br>
-これにより本日本語化MODを導入していない方とも同時に遊べるようになりました。
+これにより本日本語化MODを導入していない方とも同時に遊べるようになりました。<br><br>
+前バージョンから本MODをご利用いただいていた方はお手数をおかけしますが<br>「NewTerminal」の手動での無効化またはアンインストールが必要となります。<br><br>
+Thunderstore MOD Managerをご利用いただいている方はMy modsより「NewTerminal」をクリックし<br>Disable（無効化）またはUninstall（アンインストール）を選択してください。<br><br>
+手動でzipファイルよりMODを導入いただいている方はpluginsフォルダより「NewTerminal」フォルダの削除をお願いします。
 <br>
 <br>
 # 前提MOD / Required Mods
